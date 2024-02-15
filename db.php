@@ -1,7 +1,7 @@
 <?php 
     $db_server = "localhost";
-    $db_user = "gass";
-    $db_pass = "root";
+    $db_user = "";
+    $db_pass = "";
     $db_name = "businessdb";
     // $conn = "";
     try{
